@@ -21,9 +21,6 @@ async function fetchMovies()  {
    
 fetchMovies()
 },[])
-function alerted() {
-    alert("Joelle Latti är en orre")
-}
 
       const trundcateString = (str, num) => {
         if(str?.length > num) {
