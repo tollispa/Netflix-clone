@@ -4,6 +4,7 @@ To run this application, follow these steps:
 
 Clone this repository onto your local machine.
 Open your terminal and navigate to the project directory.
+Type "npm install" and then "npm start" to start the project.
 
 Technologies
 This application was built using the following technologies:
