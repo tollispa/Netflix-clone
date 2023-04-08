@@ -34,7 +34,7 @@ const submitForm = (e) => {
 
 
     return (  
-        <div className="flex h-screen bg-black-200 justify-center items-center">
+        <div style={{backgroundImage: "url('https://th.bing.com/th/id/OIP.MV2NnLio49uXzZ0HbI-_7wHaEK?pid=ImgDet&rs=1')"}} className="flex h-screen justify-center items-center">
         <div className="w-full max-w-sm">
           <form
           className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
