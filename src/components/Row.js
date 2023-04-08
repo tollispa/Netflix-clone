@@ -17,11 +17,11 @@ axios.get(fetchURL).then((res) => {
     }, [fetchURL])
     const slideLeft = () => {
         const slider = document.getElementById("slider" + rowID)
-        slider.scrollLeft = slider.scrollLeft -500;
+        slider.scrollLeft = slider.scrollLeft -400;
     }
     const slideRight = () => {
         const slider = document.getElementById("slider" + rowID)
-        slider.scrollLeft = slider.scrollLeft +500;
+        slider.scrollLeft = slider.scrollLeft +400;
     }
 
    
