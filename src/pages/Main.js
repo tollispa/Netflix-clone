@@ -41,8 +41,8 @@ fetchMovies()
 
     </h1>
 <div>
-    <button className="border bg-gray-300 opacity-70 text-black border-grey-300 py-2 px-5">Play</button>
-    <button className="border  text-white border-gray-300  ml-4 py-2 px-5">Watch Later</button>
+    <button className="border rounded bg-gray-300 opacity-70 text-black border-grey-300 py-2 px-5">Play</button>
+    <button className="border rounded  text-white border-gray-300  ml-4 py-2 px-5">Watch Later</button>
 
 </div>
 <p className=" onClick={alerted}text-gray-400 text-sm">Released: {randomIndex?.release_date}</p>
