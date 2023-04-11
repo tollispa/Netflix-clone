@@ -9,8 +9,7 @@ Type "npm install" and then "npm start" to start the project.
 
 This application was built using the following technologies:
 
-React
-React Router
-Axios
-CSS
-Tailwind css
+React,
+React Router,
+Axios,
+Tailwind
